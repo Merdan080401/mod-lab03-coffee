@@ -13,6 +13,5 @@ int main() {
         machine.cook();
     }
     machine.finish();
-
     return 0;
 }
